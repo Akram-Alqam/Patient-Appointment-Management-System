@@ -1,0 +1,21 @@
+Welcome to the Hospital Appointment Management System
+
+=== Hospital Appointment Management System ===
+1. Add New Appointment
+2. View All Appointments
+3. Delete Appointment
+4. Exit
+Select an option (1-4): input => 1
+Enter patient name (letters and spaces only): input => Akram Alqam
+Enter appointment date (YYYY-MM-DD): input => 2025-08-26
+Enter appointment time (HH:MM, 24-hour): input => 14:30
+
+Confirm appointment: input => Akram Alqam on 2025-08-26 at 14:30
+add this appointment? (y/n): input => y
+Appointment added successfully!
+
+=== Hospital Appointment Management System ===
+1. Add New Appointment
+2. View All Appointments
+3. Delete Appointment
+4. Exit
